@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/cocdeshijie/cocdeshijie/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/cocdeshijie/cocdeshijie/master/github-metrics.svg)
 
 <!--
 **cocdeshijie/cocdeshijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
