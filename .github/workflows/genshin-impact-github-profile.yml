@@ -1,0 +1,37 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Genshin Impact Github Profile
+
+# Controls when the action will run. 
+on:
+  #Run once everyday
+  schedule: [{cron: "0 0 * * *"}]
+  push: {branches: ["master", "main"]}
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  genshin-impact-github-profile:
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: cocdeshijie/genshin-impact-github-profile@latest
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: install requirements.txt
+        run: |
+          python3 -m pip install --upgrade pip setuptools wheel
+          python3 -m pip install -r requirements.txt
+      - name: Make svg
+        run: |
+          python3 --version
+          python3 make_svg.py
+        env: 
+          account_id: ${{  secrets.ACCOUNT_ID  }}
+          cookie_token: ${{  secrets.COOKIE_TOKEN  }}
+          uid: ${{  secrets.UID  }}
+          
