@@ -1,5 +1,5 @@
 ![Hi there 👋](https://raw.githubusercontent.com/cocdeshijie/cocdeshijie/main/header.png)
-<p align=center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&color=F7B33E&background=D6D6D600&center=true&repeat=false&width=435&lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)</p>
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&color=F7B33E&background=D6D6D600&center=true&repeat=false&width=435&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" /></a></p>
 
 <!--
 **cocdeshijie/cocdeshijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
