@@ -1,4 +1,5 @@
 ![Hi there 👋](https://raw.githubusercontent.com/cocdeshijie/cocdeshijie/main/header.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&color=F7B33E&background=85D6D1&center=true&repeat=false&width=435&lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **cocdeshijie/cocdeshijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
