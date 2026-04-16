@@ -21,19 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cocdeshijie&theme=dracula&row=1&column=6&margin-w=12&margin-h=12" alt="trophy graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/cocdeshijie/cocdeshijie/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cocdeshijie/count.svg?"  />
 </div>
 
 ###
